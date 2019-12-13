@@ -1,4 +1,4 @@
-<div id="chat_box" class="chat_box pull-right" style="display: none">
+ <div id="chat_box" class="chat_box pull-right" style="display: none">
     <div class="row">
         <div class="col-xs-12 col-md-12">
                 <div class="panel panel-default">
